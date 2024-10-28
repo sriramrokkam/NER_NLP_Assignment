@@ -16,22 +16,19 @@ pip --version
 
 **Note:** You can install the dependencies using: 'requirements.txt' file provided
 
-
-## Dataset
+### Dataset
 The dataset used is a custom NER dataset provided in CSV format with columns:
 - `sentence_id`: Unique identifier for sentences.
 - `words`: The words in each sentence.
 - `labels`: The named entity labels corresponding to each word.
 
-## Model Training
+### Model Training
 To Train the selected models execute the below programs:
 BERT Model: Execute file '01.NER_BERT_Training_F1.ipynb'
 CRF Model : Execute file '02.NER_CRF_Training_F1.ipynb'
 
   
-## Model Testing
+### Model Testing
 To Train the selected models execute the below programs:
 BERT Model: Execute file '01.NER_BERT_Chatbot_F1.ipynb'
 CRF Model : Execute file '02.NER_CRF_Chatbot_F1.ipynb'
-
-
