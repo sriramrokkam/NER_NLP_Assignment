@@ -2,6 +2,14 @@
 ## Project Overview
 This project implements Named Entity Recognition (NER) using the BERT model. We use the `simpletransformers` library to fine-tune a pre-trained BERT model on a custom NER dataset, classifying words into categories like person names, organizations, locations, and more.
 
+## Group 8
+### Anurag Maharshi - 2023MT12125
+### SRIRAM ROKKAM - 2023MT12251
+### GODLAVEETI ANIL GOVIND - 2023MT12272
+### KORUKONDA SOWMYA - 2023MT12203
+### VIGNESHWARAN K R - 2023mt12091
+
+
 ## Setup Instructions
 To set up the project and install the required packages, follow these steps:
 `pip install -r requirements.txt`
